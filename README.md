@@ -28,7 +28,7 @@
   - ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
   - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
   - ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-  - ![Node.js](https://img.shields.io/badge/Node.js-43853D?- style=flat-square&logo=node.js&logoColor=white)
+  - ![Node.js](https://img.shields.io/badge/Node.js-43853D?-style=flat-square&logo=node.js&logoColor=white)
   - ![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)
 
 - **Frameworks:** 
