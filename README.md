@@ -1,72 +1,37 @@
-<h1 align="center">Hi there, I'm AJXD2 👋</h1>
-<h3 align="center">A passionate developer exploring the world of coding</h3>
+![👋 Hi, my name is AJ](https://images.unsplash.com/photo-1708474660686-7a00a0ffe4ac?q=80&w=1354&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D 1354w, https://images.unsplash.com/photo-1708474660686-7a00a0ffe4ac?q=80&w=1654&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D 1654w, https://images.unsplash.com/photo-1708474660686-7a00a0ffe4ac?q=80&w=1954&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D 1954w, https://images.unsplash.com/photo-1708474660686-7a00a0ffe4ac?q=80&w=2254&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D 2254w, https://images.unsplash.com/photo-1708474660686-7a00a0ffe4ac?q=80&w=2554&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D 2554w, https://images.unsplash.com/photo-1708474660686-7a00a0ffe4ac?q=80&w=2708&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D 2708w, https://images.unsplash.com/photo-1708474660686-7a00a0ffe4ac?q=80&w=2854&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D 2854w, https://images.unsplash.com/photo-1708474660686-7a00a0ffe4ac?q=80&w=3154&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D 3154w, https://images.unsplash.com/photo-1708474660686-7a00a0ffe4ac?q=80&w=3308&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D 3308w, https://images.unsplash.com/photo-1708474660686-7a00a0ffe4ac?q=80&w=3454&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D 3454w, https://images.unsplash.com/photo-1708474660686-7a00a0ffe4ac?q=80&w=3754&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D 3754w, https://images.unsplash.com/photo-1708474660686-7a00a0ffe4ac?q=80&w=3908&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D 3908w, https://images.unsplash.com/photo-1708474660686-7a00a0ffe4ac?q=80&w=4054&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D 4054w, https://images.unsplash.com/photo-1708474660686-7a00a0ffe4ac?q=80&w=4354&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D 4354w, https://images.unsplash.com/photo-1708474660686-7a00a0ffe4ac?q=80&w=4508&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D 4508w, https://images.unsplash.com/photo-1708474660686-7a00a0ffe4ac?q=80&w=4654&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D 4654w, https://images.unsplash.com/photo-1708474660686-7a00a0ffe4ac?q=80&w=4950&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D 4950w)
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/113271564?v=4" width="150">
+![Profile views](https://komarev.com/ghpvc/?username=ajxd2&label=Profile%20views&color=0e75b6&style=flat)
+
+<div id="toc">
+  <ul align="center" style="list-style: none">
+    <summary>
+      <h1>
+        👋 Hi, my name is AJ
+      </h1>
+    </summary>
+  </ul>
+</div>
+
+**<h3 align="left">Connect with me:</h3>** 
+<p align="left"><a href="https://github.com/ajxd2" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="anthonyjohnkovach@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.youtube.com/@ajxd2" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.reddit.com/user/ajxd2dev" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/AJXD_2" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+
+ **<h3 align="left">🚀 Hey there! I'm a tech-savvy developer. I’ve dabbled in a bunch of cool stuff, but my jam is Python. I also dabble in JavaScript, MongoDB, and more!</h3>**
+
+ **<h3 align="center">Skills</h3>**
+
+<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="JavaScript" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="Python" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" height="32" alt="Bootstrap" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="32" alt="HTML5" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="32" alt="FastAPI" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="32" alt="Flask" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="32" alt="MongoDB" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="32" alt="SQLite" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="32" alt="Docker" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="Git" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="32" alt="GitHub" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="32" alt="VSCode" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="32" alt="Figma" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="32" alt="Godot" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="32" alt="Firebase" style="margin-right: 4px"></div>
+
+ **<h3 align="left">GitHub Stats</h3>**
+
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ajxd2&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=ajxd2&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/AJXD2?tab=followers">
-    <img src="https://img.shields.io/github/followers/AJXD2?label=Followers&style=social" alt="GitHub Followers">
-  </a>
-  <a href="https://github.com/AJXD2">
-    <img src="https://img.shields.io/github/stars/AJXD2?label=Stars&style=social" alt="GitHub Stars">
-  </a>
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajxd2&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
 </p>
 
----
+ **<h3 align="left">Support Me</h3>**
 
-### 📫 How to reach me:
-- GitHub: [github.com/AJXD2](https://github.com/AJXD2)
-- Discord: [@ajxd2](https://discord.gg/dAs8rYFR)
-- Email: [aj@ajxd2.dev](mailto:aj@ajxd2.dev)
-
----
-
-### 🔧 Technologies & Tools:
-- **Languages:** 
-  - ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
-  - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-  - ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-  - ![Node.js](https://img.shields.io/badge/Node.js-43853D?-style=flat-square&logo=node.js&logoColor=white)
-  - ![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)
-
-- **Frameworks:** 
-  - ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-  - ![Discord.js](https://img.shields.io/badge/Discord.js-7289DA?style=flat-square&logo=discord&logoColor=white)
-  - ![Discord.py](https://img.shields.io/badge/Discord.py-7289DA?style=flat-square&logo=discord&logoColor=white)
-
-- **Tools:** 
-  - ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-  - ![pip](https://img.shields.io/badge/pip-3776AB?style=flat-square&logo=pypi&logoColor=white)
-  - ![Poetry](https://img.shields.io/badge/Poetry-50318E?style=flat-square&logo=python&logoColor=white)
-  - ![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
-  - ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-  - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-  - ![Requests](https://img.shields.io/badge/Requests-9B59B6?style=flat-square&logoColor=white)
-  - ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-
----
-
-### 🚀 Projects:
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AJXD2&repo=diveharder-wrapper&theme=radical)](https://github.com/AJXD2/ajxd2)
-
----
-
-### 📈 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AJXD2&show_icons=true&theme=radical" alt="GitHub Stats">
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AJXD2&layout=compact&theme=radical" alt="Top Languages">
-</p>
-
----
-
-
-### 🏆 GitHub Trophies:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AJXD2&theme=radical" alt="GitHub Trophies">
-</p>
-
+<p align="left"><a href="https://ko-fi.com/sushil_" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-343B45?logo=kofi&logoColor=Black" height="36" style="margin-right: 4px"></a></p>
